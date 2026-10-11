@@ -1,0 +1,6 @@
+*.pem
+*.key
+audit.log
+audit-report.json
+__pycache__/
+.ipynb_checkpoints/
